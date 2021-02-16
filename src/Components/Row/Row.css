@@ -1,0 +1,11 @@
+.row_td{
+    margin: 1% 0 0 0 !important;
+    
+}
+.col_td{
+    background-color: rgb(255, 255, 255, 0.8);
+    color: black;
+    border-radius: 25px;
+    padding: 1% !important;
+    cursor: pointer;
+}
